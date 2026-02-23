@@ -170,4 +170,7 @@ TARGET_INIT_VENDOR_LIB := libinit_Infinix-X6858
 TARGET_RECOVERY_DEVICE_MODULES := libinit_Infinix-X6858
 
 # Maintainer (optional)
-TW_MAINTAINER := "アンドレイ"
+TW_MAINTAINER := "AkiraKazuma"
+
+# Hack depends
+ALLOW_MISSING_DEPENDENCIES := true
