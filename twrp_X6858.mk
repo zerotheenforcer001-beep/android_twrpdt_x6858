@@ -12,7 +12,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Product Specifics
 PRODUCT_NAME := twrp_X6858
-PRODUCT_DEVICE := x6858
+PRODUCT_DEVICE := X6858
 PRODUCT_BRAND := Infinix
 PRODUCT_MODEL := Infinix X6858
 PRODUCT_MANUFACTURER := INFINIX
